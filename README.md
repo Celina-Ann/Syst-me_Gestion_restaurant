@@ -3,19 +3,15 @@ Le système va permettre à l'organisme de gérer ses ressources personnels et m
 
 ## Fonctionnalités:
 
-### Gestion de stock (Resssources).
+#### Gestion de stock (Resssources).
 Ressources et quantités.
 
-### Gestion de rerservation et commandes clients.
+#### Gestion de rerservation et commandes clients.
 Resrvation tables et commandes (nombres de personnes, choix ...).
 
-### Gestion d'employées( Planning).
+#### Gestion d'employées( Planning).
 Systemes d'identification.
 Accès au planning. (  Admin\employées).
-
-
-
-## Technologies:
 
 
 
